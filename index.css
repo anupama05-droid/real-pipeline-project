@@ -1,0 +1,16 @@
+/* This is a simple CSS file */
+
+body {
+    background-color: #f2f2f2;   /* Light background */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
